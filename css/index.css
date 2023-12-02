@@ -1,0 +1,39 @@
+body {
+ 	background-color: #f4f4f4;
+ 	color: black;
+ 	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 16px;
+ 	font-weight: normal;
+ 	line-height: 1.6em;
+
+ }
+
+#main-header {
+ 	background-image: url(./image-20160510-20731-1pf8nwv.jpg);
+ 	text-align:center ;
+ 	color: white;
+ 	padding: 30px;
+ }
+ h1 {
+ 	text-align: center;
+ 	padding: 10px;
+ }
+ u{
+ 	color: black;
+ }
+ a {
+ 	color: black;
+ } 
+ h3{
+ 	color: black;
+ }
+ big {
+ 	color: black;
+ }
+blockquote {
+	text-align: right;
+}
+footer {
+	text-align: right;
+	color: black;
+}
